@@ -8,17 +8,23 @@ light of day.
 
 We're here to ship weird stuff, break things, and occasionally stumble upon something that actually works.
 
-What we do:
+## What we do:
 
 - Build projects nobody asked for (but maybe should have)
 - Test technologies we barely understand
 - Create learning experiences through controlled chaos
 - Embrace the philosophy of "ship first, regret later"
 
-Our governance model: ¯\\_(ツ)_/¯
+## Our governance model:
 
-Our mission: Whatever feels right at the time.
+¯\\_(ツ)_/¯
+
+## Our mission:
+
+Whatever feels right at the time.
+
+---
 
 No roadmaps. No whitepapers. No promises. Just pure, unfiltered experimentation.
 
-> Because sometimes the best way to learn is to build something completely unnecessary.
+_Because sometimes the best way to learn is to build something completely unnecessary._
